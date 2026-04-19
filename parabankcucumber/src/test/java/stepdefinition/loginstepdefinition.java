@@ -30,7 +30,7 @@ public class loginstepdefinition {
 
 	@Then("user is in Parabank homepage")
 	public void user_is_in_parabank_homepage() {
-	    System.out.println("Passed");
+	   // System.out.println("Passed");
 	}
 
 }
