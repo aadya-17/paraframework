@@ -45,7 +45,7 @@ public class Hooks {
                 e.printStackTrace();
             }
         }
-        DriverFactory.tearDown();
+        //DriverFactory.tearDown();
         
         extent.flush();
     }
