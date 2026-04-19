@@ -1,4 +1,5 @@
 Feature: Test parabank functionality
+@login
 
 Scenario:To test Login functionality
 Given User launch the application

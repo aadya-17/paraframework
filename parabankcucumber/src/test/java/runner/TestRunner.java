@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
     features = "src/test/resources/feature",
     glue = {"stepdefinition", "hooks"},  
-    tags = "@requestloan",
+    tags = "@login",
     plugin = {"pretty", "html:target/report.html"}
 )
 
